@@ -12,9 +12,11 @@ Thus these probabilities show the chances of finding one of the 10 players on ea
 (well mixed) round.
 
 These data are in theory able to be used to create a win all strategy but up until now they have been used to precissely
-predict the winner of a game well before any intuitive signs showed up indicating towards that players victory.<br>
+predict the winner of a game well before any intuitive signs showed up indicating towards that players victory.
 
-<h2>Results</h2>
+Please refer to the index image at the bottom of the page to see where each property is located on the board.<br>
+
+<h1>Results</h1>
 
 <h3>PRIORITY NUMBERS</h3>
 
