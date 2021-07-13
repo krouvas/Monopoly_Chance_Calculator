@@ -1,6 +1,8 @@
 # Monopoly_Chance_Calculator
 Generates a heat map of a Monopoly board depending on the probability of a piece to land there and also a priority system on which properties to focus on.
 
+It simulates a given set of rounds on a realistic board and produces data to aid with game analysis.
+
 The Priority number is the <b>EXPECTED</b> number of turns required for the player to gain back all the money he spent on buying that 
 particular property incliding whatever is built on it --- <i>hence it is an indication of how quickly the player will make profit 
 out of a property.</i>
@@ -11,10 +13,15 @@ The probabilities are found with the assumption that there are 10 players that w
 Thus these probabilities show the chances of finding one of the 10 players on each tile when you look at any random 
 (well mixed) round.
 
-These data are in theory able to be used to create a win all strategy but up until now they have been used to precissely
+These data are in theory able to be used to create a win-all strategy but up until now they have been used to precissely
 predict the winner of a game well before any intuitive signs showed up indicating towards that players victory.
 
-Please refer to the index image at the bottom of the page to see where each property is located on the board.<br>
+Please refer to the index image at the bottom of the page to see where each property is located on the board.
+
+The players (dictionaries) have been set up as to accomodate further work for an automatic playing system.
+
+Feel free to add or remove features / copy simulated data or even develop the automated player algorythm.
+<br>
 
 <h1>Results</h1>
 
