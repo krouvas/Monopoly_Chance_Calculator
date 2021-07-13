@@ -2,8 +2,8 @@
 Generates a heat map of a Monopoly board depending on the probability of a piece to land there and also a priority system on which properties to focus on.
 
 The Priority number is the <b>EXPECTED</b> number of turns required for the player to gain back all the money he spent on buying that 
-particular property incliding whatever is built on it --- hence it is an indication of how quickly the player will make profit 
-out of a property
+particular property incliding whatever is built on it --- <i>hence it is an indication of how quickly the player will make profit 
+out of a property.</i>
 
 The probabilities are found with the assumption that there are 10 players that were allowed to mix well enough.
 Thus these probabilities show the chances of finding one of the 10 players on each tile when you look at any random 
