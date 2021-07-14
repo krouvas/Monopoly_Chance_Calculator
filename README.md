@@ -1,4 +1,4 @@
-# Monopoly_Chance_Calculator
+# Monopoly_Game_Analysis
 Generates a heat map of a Monopoly board depending on the probability of a piece to land there and also a priority system on which properties to focus on by simulating a given set of rounds on a realistic board and producing data to aid with game analysis.
 
 In this project first a Python script was used for the simulation and then an R script for the visualisation of the results.
