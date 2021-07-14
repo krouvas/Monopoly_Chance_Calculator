@@ -1,9 +1,9 @@
 # Monopoly_Chance_Calculator
-Generates a heat map of a Monopoly board depending on the probability of a piece to land there and also a priority system on which properties to focus on.
+Generates a heat map of a Monopoly board depending on the probability of a piece to land there and also a priority system on which properties to focus on by simulating a given set of rounds on a realistic board and producing data to aid with game analysis.
 
-It simulates a given set of rounds on a realistic board and produces data to aid with game analysis.
+In this project first a Python script was used for the simulation and then an R script for the visualisation of the results.
 
-The Priority number is the <b>EXPECTED</b> number of turns required for the player to gain back all the money he spent on buying that particular property including whatever is built on it --- <i>hence it is an indication of how quickly the player will make profit out of a property.</i>
+A Priority number is the <b>EXPECTED</b> number of turns required for the player to gain back all the money he spent on buying that particular property including whatever is built on it --- <i>hence it is an indication of how quickly the player will make profit out of a property.</i>
 
 Additionally, the double Priority numbers are for when a player owns all properties of a street which doubles the rent for them.
 
@@ -19,6 +19,9 @@ Feel free to add or remove features / copy simulated data or even develop the au
 <br>
 
 <h1>Results</h1>
+
+![MonopolyHM](https://user-images.githubusercontent.com/62936506/125607074-ea593fa4-f626-426b-98f9-15594280ed31.png)
+
 
 <h3>PRIORITY NUMBERS</h3>
 
