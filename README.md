@@ -20,7 +20,7 @@ Feel free to add or remove features / copy simulated data or even develop the au
 
 <h1>Results</h1>
 
-![MonopolyHM](https://user-images.githubusercontent.com/62936506/125607074-ea593fa4-f626-426b-98f9-15594280ed31.png)
+![final](https://user-images.githubusercontent.com/62936506/126323486-b0be5d78-46a0-4a0a-abe8-d1b4afbd2d02.png)
 
 
 <h3>PRIORITY NUMBERS</h3>
